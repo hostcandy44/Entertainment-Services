@@ -73,7 +73,7 @@ html {
 
 /* hero section styling */
 .hero {
-    background: url('Images/herobg.jpg') top/cover no-repeat;
+    background: url('herobg.jpg') top/cover no-repeat;
     height: 600px;
     display: flex;
     flex-direction: column;
